@@ -47,12 +47,12 @@ first of all go to the master branch.
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/your_username/your_repo_name.git](https://github.com/your_username/your_repo_name.git)
-cd your_repo_name
+git clone (https://github.com/Anand-verse/SvaraAI-Full-Stack-Developer-Assignment.git)
+cd /SvaraAI-Full-Stack-Developer-Assignment.git
 
 cd backend
 npm install
-# .env file create karein with MONGODB_URL and JWT_SECRET
+# .env file create MONGODB_URL and JWT_SECRET
 npm start
 
 cd ../frontend /my-kanban-app

@@ -36,7 +36,7 @@ A full-stack project management tool with a drag-and-drop Kanban board, built to
 
 
 - **Modular Backend**: We used a modular approach with separate folders for `controllers`, `routes`, and `models`. This follows the **S.O.L.I.D.** principle, making the codebase clean and easy to maintain.
-- **Reusable Frontend Components**: We built reusable components like `Button` and `TaskFormModal` to follow the **D.R.Y.** principle.
+- **Reusable Frontend Components**: We built reusable components like `TaskFormModal` to follow the **D.R.Y.** principle.
 - **Testing**: Backend ke liye unit test likha gaya hai, jo code ki reliability ko ensure karta hai.
 
 ---
